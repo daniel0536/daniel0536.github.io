@@ -1,9 +1,9 @@
 ## no  you 
--lang
--math
--science
--hisotry
--web
--soccer
++lang
++math
++science
++history
++web
++soccer
 
 
